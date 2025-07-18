@@ -1,2 +1,2 @@
-# VOCALIS
+# VERBOCORE
 Text to speech converter
