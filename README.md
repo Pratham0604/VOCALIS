@@ -19,7 +19,7 @@ A simple and responsive **Text to Speech Converter** web application built using
 ## 📁 Project Structure
 
 text-to-speech/ <br>
-│
+│ <br>
 ├── txt_to_speech.html # Main HTML file <br>
 ├── txt_to_speech.css # Stylesheet<br>
 └── txt_to_speech.js # JavaScript logic<br>
